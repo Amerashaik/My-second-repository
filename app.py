@@ -18,4 +18,18 @@ public class CheckEvenOdd {
            System.out.println(num + " is odd");
    }
 }
+
 #Adding the data and pushing code before pull
+=======
+
+Fibonacci Sequence
+
+Generate Fibonacci sequence up to n terms.
+
+def fibonacci(n):
+a, b = 0, 1
+for _ in range(n):
+print(a, end=" ")
+a, b = b, a + b
+
+fibonacci(10) # Output: 0 1 1 2 3 5 8 13 21 34 
