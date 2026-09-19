@@ -18,3 +18,4 @@ public class CheckEvenOdd {
            System.out.println(num + " is odd");
    }
 }
+#Adding the data and pushing code before pull
